@@ -102,7 +102,7 @@ Please consider citing our paper if it helps your research.
 ```
 
 ## License
-GEN-VLKT is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
+Logic-HOI is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
 
 ## Acknowledge
 Some of the codes are built upon [DETR](https://github.com/facebookresearch/detr) and [GEN-VLKT](https://github.com/YueLiao/gen-vlkt). Thanks them for their great works!
