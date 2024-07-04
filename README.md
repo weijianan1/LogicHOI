@@ -1,4 +1,4 @@
-# GEN-VLKT
+# LogicHOI
 Code for our NeurIPS 2023 paper "[Neural-Logic Human-Object Interaction Detection](https://arxiv.org/abs/2311.09817)".
 
 Contributed by Liulei Li, Jianan Wei, Wenguan Wang, Yi Yang.
@@ -102,7 +102,7 @@ Please consider citing our paper if it helps your research.
 ```
 
 ## License
-Logic-HOI is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
+LogicHOI is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
 
 ## Acknowledge
 Some of the codes are built upon [DETR](https://github.com/facebookresearch/detr) and [GEN-VLKT](https://github.com/YueLiao/gen-vlkt). Thanks them for their great works!
