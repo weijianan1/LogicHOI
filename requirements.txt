@@ -1,0 +1,12 @@
+matplotlib==3.7.4
+numpy==1.20.0
+opencv_python_headless==4.5.5.64
+pandas==1.4.4
+Pillow==10.2.0
+scipy==1.9.1
+seaborn==0.13.2
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+wandb==0.16.6
+protobuf==3.20.0
+salesforce_lavis==1.0.1
