@@ -206,12 +206,10 @@ def main(args):
     np.random.seed(seed)
     random.seed(seed)
     torch.backends.cudnn.deterministic = True
-    # 添加
     torch.cuda.manual_seed(seed)
     torch.backends.cudnn.benchmark = False
     os.environ['PYTHONHASHSEED'] = str(seed)
     os.environ['CUBLAS_WORKSPACE_CONFIG']=':4096:8'
-    torch.use_deterministic_algorithms(True)
 
     model, criterion, postprocessors, vlm, vis_processors = build_model(args)
     model.to(device)

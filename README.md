@@ -3,15 +3,14 @@ Code for our NeurIPS 2023 paper "[Neural-Logic Human-Object Interaction Detectio
 
 Contributed by Liulei Li, Jianan Wei, Wenguan Wang, Yi Yang.
 
+![](paper_images/intro.png)
+
 ## Installation
 Installl the dependencies.
 ```
 pip install -r requirements.txt
 ```
-Clone and build CLIP.
-```
-git clone https://github.com/openai/CLIP.git && cd CLIP && python setup.py develop && cd ..
-```
+
 ## Data preparation
 
 ### HICO-DET
